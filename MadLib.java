@@ -20,6 +20,6 @@ public class MadLib {
    }     
    
    public static void output() {
-      System.out.println("\nThe " + adjective + " teacher " + verb + " my " + noun + ", and I've never recovered.");
+      System.out.println("\nThe " + adjective + " mayor " + verb + " my " + noun + ", and I've never recovered.");
    }
 }
